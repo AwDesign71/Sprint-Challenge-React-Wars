@@ -1,0 +1,9 @@
+div {
+    padding: 25px;
+    color: #edd;
+    display: inline-block;
+    width: 95%;
+}
+div h2 {
+    flex-flow: column;
+}
